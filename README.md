@@ -28,3 +28,8 @@ We would be having these major goals in the initial phase
 * Users than withdraws his cryptocurrencies(whenever he wants) according to the smart contract prepared at the time of investing.
 * This completes the tenure of the smart contract made.
 
+
+<p align=center>
+<img src="readmeimg.png">
+<p/>
+
